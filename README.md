@@ -10,3 +10,5 @@
   <img align="center" alt="Brendown-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 <hr><br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrendownEduardoRR&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrendownEduardoRR&layout=compact&theme=radical)
